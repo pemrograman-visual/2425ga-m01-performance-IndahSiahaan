@@ -72,4 +72,3 @@ public class M01 {
         return String.format("%." + digits + "f", value);
     }
 }
-
